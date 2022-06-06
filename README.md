@@ -8,8 +8,8 @@
 onur54yetim/onur54yetim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# EESEC 448
-Merhaba arkadaşlar. Bu sayfada **OpenCV**'nin **OpenCV for Beginners** isimli resmi kursunu referans olacağız. Bu kursa 
+# EESEC-448 GÖRÜNTÜ İŞLEME
+
 
 
 
